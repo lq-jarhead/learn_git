@@ -1,2 +1,2 @@
-learn git
-a free software
+i am learn git
+it is a free software 
