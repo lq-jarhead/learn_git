@@ -1,2 +1,4 @@
 learn git
 a free software
+
+stash
